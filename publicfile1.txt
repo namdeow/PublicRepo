@@ -1,2 +1,4 @@
 publicfile1
+publicfile2
+publicfile1
 publicfile1
